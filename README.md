@@ -12,3 +12,6 @@
 本项目是小宝（Xiaobao）于2016年8月2日在看雪论坛发布的视频教程帖《VT虚拟化架构编写视频教程①~⑥课》所完成的 VT-x 项目。
 
 帖子链接：https://bbs.pediy.com/thread-211973-7.htm
+
+# x86版本
+https://github.com/xiaobao520123/MiniVT
